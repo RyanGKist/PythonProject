@@ -1,0 +1,90 @@
+#wrapper{
+	background-color:blue;
+}
+.container {
+	width: 970px;
+	margin: 0 auto;
+}
+
+#header{
+	background:blue;
+	display:inline-block;
+}
+
+.opbar{
+	width:20%;
+	height:60px;
+	background-color:red;
+	display:inline-block;
+	margin:-32px 0px 0px 750px;
+}
+.logo{
+	width:20%;
+	height:60px;
+	background-color:red;
+	display:inline-block;
+	margin:0px 0px 10px 0px;
+}
+
+.navbar li{
+	display:inline-block;
+	height:50px;
+	width:19%;
+	background-color:gold;
+	text-align:center;
+	margin:0px -2px -7px -2px;
+	padding:15px 2px 0px 0px;
+	font-family:arial;
+	font-size:24px;
+	color:white;
+
+}
+#links {
+	width:25%;
+	height:200px;
+	background-color:purple;
+	display:inline-block;
+	margin-left:45px;
+	vertical-align: top;
+	text-align: center;
+	font-family:arial;
+	font-size:14px;
+	color:white;
+	text-decoration: underline;
+	line-height:1.75;
+}
+#maincont{
+	text-align: right;
+	height:200px;
+	width:55%;
+	background-color:teal;
+	display:inline-block;
+	margin-left:100px;
+}
+
+#bottominfo{
+	height:300px;
+	width:100%;
+	background-color:white;
+	display:inline-block;
+}
+.section{
+	height:275px;
+	width:45%;
+	background-color:green;
+	display:inline-block;
+	margin:10px 0px 0px 20px;
+	border-top: 5px solid blue;
+}
+/*.apphead{
+		display:inline-block;
+		vertical-align: top;
+}*/
+
+#footer{
+	height:100px;
+	width:100%;
+	background:blue;
+	display:inline-block;
+}
+}
